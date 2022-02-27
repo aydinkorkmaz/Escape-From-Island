@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f40e831ada13cb94cae8c75cdacb4566, type: 3}
+  m_Name: S222
+  m_EditorClassIdentifier: 
+  StoryText: "Malesef yanl\u0131\u015F se\xE7im yapt\u0131n.\r\n\r\nAlt\u0131nlarla,yiyeceklerle
+    ve i\xE7eceklerle dolu olan gemi bir korsan gemisiydi. \xD6yle bir adada o kadar
+    \xE7ok \u015Feyin bulundu\u011Fu gemi zaten ne olabilirdi ki! \r\n\rKorsanlar
+    seni gemide esir ald\u0131ktan sonra yola \xE7\u0131kt\u0131lar ve yolda seni
+    denize att\u0131lar ve bal\u0131klara yem oldun.\r\n\r\nTekrar oynamak ister
+    misin?\r\n\r1) Evet    Esc) \xC7\u0131k\u0131\u015F."
+  NextStatus:
+  - {fileID: 11400000, guid: 5e58eaf3300aa3b489fcebf1fe92d536, type: 2}
